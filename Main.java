@@ -6,6 +6,8 @@ public class Main {
 		Movie movie = new Movie();
 		movie.mainMenu();
 		System.out.println("bit test");
+		System.out.println("H2");
+
 
 	}
 
